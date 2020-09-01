@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DL Gifs</string>
+    <string name="desc">Description</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+    <string name="checkout">Checkout this:</string>
+    <string name="share_gif">Share Gif</string>
+</resources>
